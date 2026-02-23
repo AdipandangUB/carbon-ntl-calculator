@@ -776,5 +776,5 @@ with tab2:
 st.markdown("Data Contoh VIIRS untuk ujicoba model dapat diunduh: [Data VIIRS Mojokerto - Jawa Timur]( https://drive.google.com/drive/folders/1RkyhQZ2hLf2j95oBfEYbGOIakuNq8jsz?usp=sharing)")
 st.markdown("---")
 st.markdown("**Nighttime Light (NTL) Carbon Analysis Tool - Ver 5.0**")
-st.markdown("**Dikembangkan oleh: Firman Afrianto (NTL Analysis Expert) & Adipandang Yudono (Carbon Estimation Algorithm Creator & WebGIS NTL Analytics Developer)**")
+st.markdown("**Dikembangkan oleh: Adipandang Yudono (Carbon Estimation Algorithm Creator & WebGIS NTL Analytics Developer) & Firman Afrianto (NTL Analysis Expert)**")
 st.markdown("**Fitur: Estimasi Karbon dari Data Nighttime Lights dengan Multiple Conversion Methods**")
